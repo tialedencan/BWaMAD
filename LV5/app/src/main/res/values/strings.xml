@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ORWMA_LV5</string>
+
+    <string name="name_surname">Ime i Prezime</string>
+    <string name="description">Opis</string>
+    <string name="input">Unesi</string>
+    <string name="height">180</string>
+    <string name="weight">75</string>
+    <string name="calculate">Izračunaj</string>
+    <string name="tw">TextView</string>
+</resources>
