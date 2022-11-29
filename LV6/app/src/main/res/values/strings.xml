@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ORWMA_LV6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forward">NAPRIJED</string>
+    <string name="back">NATRAG</string>
+    <string name="bestCroPlayer">Najbolji nogometaš Hrvatske nogometne reprezentacije je:</string>
+
+    <string name="firstPlayer">Bruno Petković</string>
+    <string name="secondPlayer">Mateo Kovačić</string>
+    <string name="thirdPlayer">Luka Modrić</string>
+    <string name="fourthPlayer">Borna Barišić</string>
+</resources>
