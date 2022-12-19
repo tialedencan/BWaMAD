@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ORWMA_LV8</string>
+    <string name="save">SPREMI</string>
+    <string name="imgURL">Image URL</string>
+    <string name="name">Person name</string>
+    <string name="description">Person description</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "901160343597",
+    "project_id": "orwmalv8-ledencan",
+    "storage_bucket": "orwmalv8-ledencan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901160343597:android:c45fd9227155b4f651c0a4",
+        "android_client_info": {
+          "package_name": "com.tia.orwma_lv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901160343597-kta0fvkr152ej9dqu5rsj6ncr23ja19s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9HB--Phw5Bb6bccEizc3B9zE6xMTSy_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901160343597-kta0fvkr152ej9dqu5rsj6ncr23ja19s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901160343597:android:29ed6b5738981a3e51c0a4",
+        "android_client_info": {
+          "package_name": "com.tia.orwmalv8_ledencan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901160343597-kta0fvkr152ej9dqu5rsj6ncr23ja19s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9HB--Phw5Bb6bccEizc3B9zE6xMTSy_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901160343597-kta0fvkr152ej9dqu5rsj6ncr23ja19s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
